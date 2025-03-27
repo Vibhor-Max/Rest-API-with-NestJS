@@ -1,6 +1,6 @@
-# Project Name
+# Exercise Tracking API
 
-This project is a A secure RESTful API built with TypeScript, NestJS, Node.js, and PostgreSQL for managing fitness exercises with user engagement features.
+This project is a a secure RESTful API built with TypeScript, NestJS, Node.js, and PostgreSQL for managing fitness exercises with user engagement features.
 
 Key Features:
 
